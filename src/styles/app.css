@@ -1,5 +1,6 @@
 .rcorners {
-font-family:"Arial";
+    position: relative;
+    font-family:"Arial";
     border-radius: 10px;
     border: 1px solid blue;
     text-align : left;
@@ -8,13 +9,7 @@ font-family:"Arial";
     width: 250px;
     height: 150px;    
     line-height:200%;
-}
-table{
-    border-spacing: 20px;
-    border-collapse: separate;
-}
-td{
-    padding:30px;
+    margin-top:50px;
 }
 
  body {
